@@ -166,7 +166,7 @@
 	    </plugins>
 	  </reporting>
 	
-   <distributionManagement>
+  <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
         <name>mint-snapshots</name>
